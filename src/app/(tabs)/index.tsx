@@ -14,24 +14,4 @@ export default function MenuScreen() {
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    backgroundColor: "white",
-    padding: 10,
-    borderRadius: 20,
-  },
-  image: {
-    width: "100%",
-    aspectRatio: 1,
-  },
-  title: {
-    fontSize: 20,
-    fontWeight: "600",
-    marginVertical: 10,
-  },
-
-  price: {
-    color: Colors.light.tint,
-    fontWeight: "bold",
-  },
-});
+const styles = StyleSheet.create({});
